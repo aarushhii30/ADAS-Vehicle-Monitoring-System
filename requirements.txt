@@ -1,0 +1,22 @@
+# ============================================================
+# requirements.txt — ADAS Lane & Object Detection System
+# Install with:  pip install -r requirements.txt
+# ============================================================
+
+# Computer vision & image processing
+opencv-python>=4.9.0
+
+# YOLOv8 (includes torch dependency automatically)
+ultralytics>=8.0.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# (Optional) FastAPI layer — uncomment if using the API module
+# fastapi>=0.110.0
+# uvicorn[standard]>=0.29.0
+# python-multipart>=0.0.9
+
+# (Optional) For Jupyter notebook exploration
+# notebook>=7.0.0
+# matplotlib>=3.8.0
