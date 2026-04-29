@@ -104,6 +104,3 @@ ID 3 | 42 km/h | 8 m
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
